@@ -71,7 +71,7 @@ export default async function(eleventyConfig) {
 			limit: 10,
 		},
 		metadata: {
-			language: "en",
+			language: "es",
 			title: "Blog Title",
 			subtitle: "This is a longer description about your blog.",
 			base: "https://example.com/",

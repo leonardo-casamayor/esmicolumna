@@ -2,47 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
-		<loc>https://example.com/esmicolumna/blog/firstpost/</loc>
-		<lastmod>2018-05-01</lastmod>
+		<loc>https://example.com/esmicolumna/blog/romanticas/</loc>
+		<lastmod>13 febrero 2025</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/esmicolumna/blog/secondpost/</loc>
-		<lastmod>2018-07-04</lastmod>
+		<loc>https://example.com/esmicolumna/blog/politicas/</loc>
+		<lastmod>20 febrero 2025</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/esmicolumna/blog/thirdpost/</loc>
-		<lastmod>2018-08-24</lastmod>
+		<loc>https://example.com/esmicolumna/blog/carcel-de-mujeres/</loc>
+		<lastmod>06 marzo 2025</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/esmicolumna/blog/fourthpost/</loc>
-		<lastmod>2018-09-30</lastmod>
+		<loc>https://example.com/esmicolumna/blog/directoras-argentinas/</loc>
+		<lastmod>06 marzo 2025</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/esmicolumna/blog/abuelas/</loc>
+		<lastmod>13 marzo 2025</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/esmicolumna/blog/adolescentes/</loc>
+		<lastmod>27 marzo 2025</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/esmicolumna/blog/bisexualidades/</loc>
+		<lastmod>03 abril 2025</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/esmicolumna/blog/asexualidad/</loc>
+		<lastmod>10 abril 2025</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/esmicolumna/blog/adopcion/</loc>
+		<lastmod>24 abril 2025</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/esmicolumna/blog/biopics/</loc>
+		<lastmod>06 mayo 2025</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/esmicolumna/blog/papas/</loc>
+		<lastmod>08 mayo 2025</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/esmicolumna/blog/coming-of-age/</loc>
+		<lastmod>13 mayo 2025</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/esmicolumna/blog/padres-abandonicos/</loc>
+		<lastmod>22 mayo 2025</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/esmicolumna/blog/cine-en-el-teatro/</loc>
+		<lastmod>28 mayo 2025</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/esmicolumna/blog/onlyfans/</loc>
+		<lastmod>12 junio 2025</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/esmicolumna/about/</loc>
-		<lastmod>2025-06-24</lastmod>
+		<lastmod>24 junio 2025</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/esmicolumna/blog/</loc>
-		<lastmod>2025-06-24</lastmod>
+		<lastmod>24 junio 2025</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/esmicolumna/</loc>
-		<lastmod>2025-06-24</lastmod>
+		<lastmod>24 junio 2025</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/esmicolumna/tags/</loc>
-		<lastmod>2025-06-24</lastmod>
+		<lastmod>24 junio 2025</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/esmicolumna/feed/feed.xml</loc>
-		<lastmod>2025-06-24</lastmod>
+		<lastmod>24 junio 2025</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/esmicolumna/blog/suspenso-y-tension/</loc>
+		<lastmod>19 julio 2025</lastmod>
 	</url>
 </urlset>

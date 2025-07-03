@@ -1,6 +1,6 @@
 ---
 title: Suspenso y Tension
-date: 2025-07-19
+date: 2025-06-19
 ---
 
 # Harta

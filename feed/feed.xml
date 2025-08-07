@@ -5,11 +5,28 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/esmicolumna/feed/feed.xml" rel="self" />
   <link href="https://example.com/esmicolumna/" />
-  <updated>2025-07-31T00:00:00Z</updated>
+  <updated>2025-08-07T00:00:00Z</updated>
   <id>https://example.com/esmicolumna/</id>
   <author>
     <name>Your Name</name>
   </author>
+  <entry>
+    <title>Tamaramanía</title>
+    <link href="https://example.com/esmicolumna/blog/tamaramania/" />
+    <updated>2025-08-07T00:00:00Z</updated>
+    <id>https://example.com/esmicolumna/blog/tamaramania/</id>
+    <content type="html">&lt;h1 id=&quot;superstar&quot;&gt;Superstar&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://cuevana.pro/serie/superestar/episodio-1x1&quot;&gt;https://cuevana.pro/serie/superestar/episodio-1x1&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;sigo-siendo-la-misma&quot;&gt;Sigo siendo la misma&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://ok.ru/video/9271129213569&quot;&gt;https://ok.ru/video/9271129213569&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;07-35-de-la-manana&quot;&gt;07:35 de la mañana&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/groups/102974/videos/3628021&quot;&gt;https://vimeo.com/groups/102974/videos/3628021&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;los-cronocrimenes&quot;&gt;Los cronocrímenes&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/7642317589039?__dp=y&quot;&gt;https://m.ok.ru/video/7642317589039?__dp=y&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;extraterrestre&quot;&gt;Extraterrestre&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/1379844360765&quot;&gt;https://m.ok.ru/video/1379844360765&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Glifosato</title>
     <link href="https://example.com/esmicolumna/blog/glifosato/" />
@@ -181,25 +198,6 @@
 &lt;p&gt;&lt;a href=&quot;https://uqload.net/ykxc4un3faqp.html&quot;&gt;https://uqload.net/ykxc4un3faqp.html&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;j-ai-tue-ma-mere-yo-mate-a-mi-madre&quot;&gt;J&#39;ai tué ma mère (Yo maté a mi madre)&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=GsUB5aDtOds&quot;&gt;https://www.youtube.com/watch?v=GsUB5aDtOds&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Coming of age</title>
-    <link href="https://example.com/esmicolumna/blog/coming-of-age/" />
-    <updated>2025-05-13T00:00:00Z</updated>
-    <id>https://example.com/esmicolumna/blog/coming-of-age/</id>
-    <content type="html">&lt;h1 id=&quot;my-old-ass-sin-subtitulos-en-espanol&quot;&gt;My old ass (sin subtítulos en español)&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/8315916782183&quot;&gt;http://ok.ru/video/8315916782183&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;shiva-baby-espanol-doblada&quot;&gt;Shiva Baby (español doblada)&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://ok.ru/video/9503951686191&quot;&gt;https://ok.ru/video/9503951686191&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;zero-fucks-given-sin-subtitulos-en-espanol&quot;&gt;Zero Fucks Given (sin subtítulos en español)&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/4263320619706&quot;&gt;http://ok.ru/video/4263320619706&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;frances-ha&quot;&gt;Frances Ha!&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/2859490871849&quot;&gt;http://ok.ru/video/2859490871849&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;kiki-repartos-a-domicilio&quot;&gt;Kiki, repartos a domicilio&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.tokyvideo.com/es/video/kiki-entregas-a-domicilio-latino&quot;&gt;https://www.tokyvideo.com/es/video/kiki-entregas-a-domicilio-latino&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;rosetta&quot;&gt;Rosetta&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://archive.org/details/rosetta.-1999&quot;&gt;https://archive.org/details/rosetta.-1999&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>

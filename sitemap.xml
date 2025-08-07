@@ -107,27 +107,32 @@
 	</url>
 	
 	<url>
+		<loc>https://example.com/esmicolumna/blog/tamaramania/</loc>
+		<lastmod>07 agosto 2025</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://example.com/esmicolumna/about/</loc>
-		<lastmod>02 agosto 2025</lastmod>
+		<lastmod>07 agosto 2025</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/esmicolumna/blog/</loc>
-		<lastmod>02 agosto 2025</lastmod>
+		<lastmod>07 agosto 2025</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/esmicolumna/</loc>
-		<lastmod>02 agosto 2025</lastmod>
+		<lastmod>07 agosto 2025</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/esmicolumna/tags/</loc>
-		<lastmod>02 agosto 2025</lastmod>
+		<lastmod>07 agosto 2025</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/esmicolumna/feed/feed.xml</loc>
-		<lastmod>02 agosto 2025</lastmod>
+		<lastmod>07 agosto 2025</lastmod>
 	</url>
 </urlset>

@@ -5,11 +5,20 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/esmicolumna/feed/feed.xml" rel="self" />
   <link href="https://example.com/esmicolumna/" />
-  <updated>2025-08-07T00:00:00Z</updated>
+  <updated>2025-08-14T00:00:00Z</updated>
   <id>https://example.com/esmicolumna/</id>
   <author>
     <name>Your Name</name>
   </author>
+  <entry>
+    <title>Presión de estar en pareja</title>
+    <link href="https://example.com/esmicolumna/blog/presion-de-estar-en-pareja/" />
+    <updated>2025-08-14T00:00:00Z</updated>
+    <id>https://example.com/esmicolumna/blog/presion-de-estar-en-pareja/</id>
+    <content type="html">&lt;h1 id=&quot;the-lobster&quot;&gt;The Lobster&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://ok.ru/group/70000006188245/topic/157244578912469&quot;&gt;https://ok.ru/group/70000006188245/topic/157244578912469&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Tamaramanía</title>
     <link href="https://example.com/esmicolumna/blog/tamaramania/" />
@@ -183,21 +192,6 @@
 &lt;p&gt;&lt;a href=&quot;http://ok.ru/video/1420276140745&quot;&gt;http://ok.ru/video/1420276140745&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;synecdoche-new-york&quot;&gt;Synecdoche New York&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;http://ok.ru/video/1919605476041&quot;&gt;http://ok.ru/video/1919605476041&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Padres Abandonicos</title>
-    <link href="https://example.com/esmicolumna/blog/padres-abandonicos/" />
-    <updated>2025-05-22T00:00:00Z</updated>
-    <id>https://example.com/esmicolumna/blog/padres-abandonicos/</id>
-    <content type="html">&lt;h1 id=&quot;boy&quot;&gt;Boy&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/2079521901247&quot;&gt;http://ok.ru/video/2079521901247&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;our-mother-house&quot;&gt;Our mother house&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/1327087028797&quot;&gt;http://ok.ru/video/1327087028797&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;boyhood&quot;&gt;Boyhood&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://uqload.net/ykxc4un3faqp.html&quot;&gt;https://uqload.net/ykxc4un3faqp.html&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;j-ai-tue-ma-mere-yo-mate-a-mi-madre&quot;&gt;J&#39;ai tué ma mère (Yo maté a mi madre)&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=GsUB5aDtOds&quot;&gt;https://www.youtube.com/watch?v=GsUB5aDtOds&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>

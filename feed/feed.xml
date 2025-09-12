@@ -5,11 +5,30 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/esmicolumna/feed/feed.xml" rel="self" />
   <link href="https://example.com/esmicolumna/" />
-  <updated>2025-09-09T00:00:00Z</updated>
+  <updated>2025-09-11T00:00:00Z</updated>
   <id>https://example.com/esmicolumna/</id>
   <author>
     <name>Your Name</name>
   </author>
+  <entry>
+    <title>Docentes</title>
+    <link href="https://example.com/esmicolumna/blog/docentes/" />
+    <updated>2025-09-11T00:00:00Z</updated>
+    <id>https://example.com/esmicolumna/blog/docentes/</id>
+    <content type="html">&lt;h1 id=&quot;el-maestro&quot;&gt;El maestro&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=t9wIA7Y-uDY&quot;&gt;https://www.youtube.com/watch?v=t9wIA7Y-uDY&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;paulina-la-patota&quot;&gt;Paulina (La patota)&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://ok.ru/video/2636883626713&quot;&gt;https://ok.ru/video/2636883626713&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;la-patota-1960&quot;&gt;La Patota (1960)&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=37dt7_zwBgs&quot;&gt;https://www.youtube.com/watch?v=37dt7_zwBgs&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;luce&quot;&gt;Luce&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/1576492665417&quot;&gt;https://m.ok.ru/video/1576492665417&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;otra-ronda-doblada&quot;&gt;Otra ronda (doblada)&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/dk?st.cmd=movieLayer&amp;amp;st.retLoc=default&amp;amp;st.discType=MOVIE&amp;amp;st.mvId=8060100348494&amp;amp;st.plog=-1%3B-1%3B0%3B&amp;amp;st.discId=8060100348494&amp;amp;st.rtu=%2Fdk%3Fst.cmd%3DuserAllSearch%26st.search%3Dotra%2Bronda%26st.frwd%3Don%26st.page%3D1%26_prevCmd%3DuserAllSearch%26tkn%3D98&amp;amp;_prevCmd=userAllSearch&amp;amp;tkn=2226#&quot;&gt;https://m.ok.ru/dk?st.cmd=movieLayer&amp;amp;st.retLoc=default&amp;amp;st.discType=MOVIE&amp;amp;st.mvId=8060100348494&amp;amp;st.plog=-1%3B-1%3B0%3B&amp;amp;st.discId=8060100348494&amp;amp;st.rtu=%2Fdk%3Fst.cmd%3DuserAllSearch%26st.search%3Dotra%2Bronda%26st.frwd%3Don%26st.page%3D1%26_prevCmd%3DuserAllSearch%26tkn%3D98&amp;amp;_prevCmd=userAllSearch&amp;amp;tkn=2226#&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;la-sala-de-profesores&quot;&gt;La sala de profesores&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://ok.ru/group/70000006188245/topic/157213022738645&quot;&gt;https://ok.ru/group/70000006188245/topic/157213022738645&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Series</title>
     <link href="https://example.com/esmicolumna/blog/series/" />
@@ -151,29 +170,6 @@
 &lt;p&gt;&lt;a href=&quot;https://ok.ru/video/3680302664281&quot;&gt;https://ok.ru/video/3680302664281&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;tape&quot;&gt;Tape&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;https://ok.ru/video/3409157556795&quot;&gt;https://ok.ru/video/3409157556795&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Suspenso y Tension</title>
-    <link href="https://example.com/esmicolumna/blog/suspenso-y-tension/" />
-    <updated>2025-06-19T00:00:00Z</updated>
-    <id>https://example.com/esmicolumna/blog/suspenso-y-tension/</id>
-    <content type="html">&lt;h1 id=&quot;harta&quot;&gt;Harta&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/group/70000006188245/topic/157872050919637?opncmnt&amp;amp;__dp=y&quot;&gt;https://m.ok.ru/group/70000006188245/topic/157872050919637?opncmnt&amp;amp;__dp=y&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;locke&quot;&gt;Locke&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://ok.ru/group/70000006188245/topic/157232993523925&quot;&gt;https://ok.ru/group/70000006188245/topic/157232993523925&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;the-guilty-version-danesa&quot;&gt;The guilty (versión danesa)&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/3190189263485&quot;&gt;https://m.ok.ru/video/3190189263485&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;the-guilty-version-yankee-sin-subtitulos-tambien-esta-en-netflix&quot;&gt;The Guilty (versión yankee sin subtítulos, también está en Netflix)&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/7387006634582&quot;&gt;https://m.ok.ru/video/7387006634582&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;marea-alta&quot;&gt;Marea Alta&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://play.cine.ar/INCAA/produccion/6028/reproducir&quot;&gt;https://play.cine.ar/INCAA/produccion/6028/reproducir&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;un-dia-de-furia&quot;&gt;Un día de furia&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/7258892012079&quot;&gt;https://m.ok.ru/video/7258892012079&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;on-the-line-la-del-podcast-con-mel-gibson-esta-en-netflix&quot;&gt;On the line (la del podcast con Mel Gibson está en Netflix)&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://ok.ru/group/70000006188245/topic/157641024592085&quot;&gt;https://ok.ru/group/70000006188245/topic/157641024592085&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;tarde-de-perros&quot;&gt;Tarde de perros&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/7856487139887&quot;&gt;http://ok.ru/video/7856487139887&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>

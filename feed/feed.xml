@@ -5,11 +5,47 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/esmicolumna/feed/feed.xml" rel="self" />
   <link href="https://example.com/esmicolumna/" />
-  <updated>2025-09-25T00:00:00Z</updated>
+  <updated>2025-10-09T00:00:00Z</updated>
   <id>https://example.com/esmicolumna/</id>
   <author>
     <name>Your Name</name>
   </author>
+  <entry>
+    <title>Plano Secuencia</title>
+    <link href="https://example.com/esmicolumna/blog/plano-secuencia/" />
+    <updated>2025-10-09T00:00:00Z</updated>
+    <id>https://example.com/esmicolumna/blog/plano-secuencia/</id>
+    <content type="html">&lt;h1 id=&quot;gatillero&quot;&gt;Gatillero&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/9479566396033&quot;&gt;http://ok.ru/video/9479566396033&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;punto-de-ebullicion&quot;&gt;Punto de ebullición&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/6285645777567?__dp=y&quot;&gt;https://m.ok.ru/video/6285645777567?__dp=y&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;el-colapso&quot;&gt;El colapso&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://vix.com/es-es/detail/series-4128&quot;&gt;https://vix.com/es-es/detail/series-4128&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;lost-in-london-sin-subtitulos&quot;&gt;Lost in London (sin subtítulos)&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/3464701282871&quot;&gt;http://ok.ru/video/3464701282871&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;1917&quot;&gt;1917&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/4940820646615&quot;&gt;http://ok.ru/video/4940820646615&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>María Luisa Bemberg</title>
+    <link href="https://example.com/esmicolumna/blog/maria-luisa-bemberg/" />
+    <updated>2025-10-02T00:00:00Z</updated>
+    <id>https://example.com/esmicolumna/blog/maria-luisa-bemberg/</id>
+    <content type="html">&lt;h1 id=&quot;momentos&quot;&gt;Momentos&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://ok.ru/video/3883793386008&quot;&gt;https://ok.ru/video/3883793386008&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;camila&quot;&gt;Camila&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.dailymotion.com/video/x90mn0c&quot;&gt;https://www.dailymotion.com/video/x90mn0c&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;de-eso-no-se-habla&quot;&gt;De eso no se habla&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://ok.ru/video/3251604359704&quot;&gt;https://ok.ru/video/3251604359704&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;miss-mary&quot;&gt;Miss Mary&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://ok.ru/video/5911718529779&quot;&gt;https://ok.ru/video/5911718529779&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;senora-de-nadie&quot;&gt;Señora de nadie&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://ok.ru/video/3883847846424&quot;&gt;https://ok.ru/video/3883847846424&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;yo-la-peor-de-todas&quot;&gt;Yo, la peor de todas&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/3883809376792&quot;&gt;http://ok.ru/video/3883809376792&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Aborto</title>
     <link href="https://example.com/esmicolumna/blog/aborto/" />
@@ -138,38 +174,6 @@
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=dVY_AMVJ2PE&amp;amp;t=4053s&quot;&gt;https://www.youtube.com/watch?v=dVY_AMVJ2PE&amp;amp;t=4053s&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;cuando-acecha-la-maldad&quot;&gt;Cuando acecha la maldad&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/7226437601917&quot;&gt;https://m.ok.ru/video/7226437601917&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Lena Dunham</title>
-    <link href="https://example.com/esmicolumna/blog/lena-dunham/" />
-    <updated>2025-07-24T00:00:00Z</updated>
-    <id>https://example.com/esmicolumna/blog/lena-dunham/</id>
-    <content type="html">&lt;h1 id=&quot;tiny-furniture&quot;&gt;Tiny Furniture&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://ok.ru/video/3441575135935&quot;&gt;https://ok.ru/video/3441575135935&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Amistad</title>
-    <link href="https://example.com/esmicolumna/blog/amistad/" />
-    <updated>2025-07-18T00:00:00Z</updated>
-    <id>https://example.com/esmicolumna/blog/amistad/</id>
-    <content type="html">&lt;h1 id=&quot;now-and-then&quot;&gt;Now and then&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/3146686401191&quot;&gt;https://m.ok.ru/video/3146686401191&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;stand-by-me&quot;&gt;Stand by me&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/7847630998136&quot;&gt;http://ok.ru/video/7847630998136&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;las-ninas&quot;&gt;Las Niñas&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/2903119694487&quot;&gt;http://ok.ru/video/2903119694487&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;desperte-con-un-seno&quot;&gt;Desperté con un seño&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/7176542554712&quot;&gt;http://ok.ru/video/7176542554712&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;dating-amber&quot;&gt;Dating Amber&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://ok.ru/videoembed/2244035086909&quot;&gt;https://ok.ru/videoembed/2244035086909&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;booksmart&quot;&gt;Booksmart&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/1418804791881&quot;&gt;http://ok.ru/video/1418804791881&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;fourteen&quot;&gt;Fourteen&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/2058482027067&quot;&gt;http://ok.ru/video/2058482027067&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;la-habitacion-de-al-lado&quot;&gt;La habitación de al lado&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/9523411749423&quot;&gt;http://ok.ru/video/9523411749423&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>

@@ -152,27 +152,37 @@
 	</url>
 	
 	<url>
+		<loc>https://example.com/esmicolumna/blog/empleadas-domesticas/</loc>
+		<lastmod>16 octubre 2025</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/esmicolumna/blog/vinculos-con-adultos-mayores/</loc>
+		<lastmod>23 octubre 2025</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://example.com/esmicolumna/about/</loc>
-		<lastmod>12 octubre 2025</lastmod>
+		<lastmod>24 octubre 2025</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/esmicolumna/blog/</loc>
-		<lastmod>12 octubre 2025</lastmod>
+		<lastmod>24 octubre 2025</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/esmicolumna/</loc>
-		<lastmod>12 octubre 2025</lastmod>
+		<lastmod>24 octubre 2025</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/esmicolumna/tags/</loc>
-		<lastmod>12 octubre 2025</lastmod>
+		<lastmod>24 octubre 2025</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/esmicolumna/feed/feed.xml</loc>
-		<lastmod>12 octubre 2025</lastmod>
+		<lastmod>24 octubre 2025</lastmod>
 	</url>
 </urlset>

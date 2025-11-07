@@ -5,11 +5,61 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/esmicolumna/feed/feed.xml" rel="self" />
   <link href="https://example.com/esmicolumna/" />
-  <updated>2025-10-23T00:00:00Z</updated>
+  <updated>2025-11-06T00:00:00Z</updated>
   <id>https://example.com/esmicolumna/</id>
   <author>
     <name>Your Name</name>
   </author>
+  <entry>
+    <title>Cine Queer</title>
+    <link href="https://example.com/esmicolumna/blog/cine-queer/" />
+    <updated>2025-11-06T00:00:00Z</updated>
+    <id>https://example.com/esmicolumna/blog/cine-queer/</id>
+    <content type="html">&lt;h1 id=&quot;bpm-con-sub-en-ingles&quot;&gt;BPM (con sub en inglés)&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/1689511201350&quot;&gt;http://ok.ru/video/1689511201350&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;los-5-demonios&quot;&gt;Los 5 demonios&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/6980961176215&quot;&gt;http://ok.ru/video/6980961176215&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;la-nina-de-fuego&quot;&gt;La niña de fuego&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=dQGQDCULv8I&quot;&gt;https://www.youtube.com/watch?v=dQGQDCULv8I&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;errante-corazon&quot;&gt;Errante Corazón&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/10062143949554&quot;&gt;http://ok.ru/video/10062143949554&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;will-and-harper-sin-subtitulos&quot;&gt;Will and Harper (sin subtítulos)&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/7686028593702&quot;&gt;http://ok.ru/video/7686028593702&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;un-rubio&quot;&gt;Un Rubio&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/7024141667058&quot;&gt;http://ok.ru/video/7024141667058&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;el-nino-pez&quot;&gt;El niño pez&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/6942709123675&quot;&gt;http://ok.ru/video/6942709123675&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;criaturas-celestiales&quot;&gt;Criaturas Celestiales&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/2915779611303&quot;&gt;http://ok.ru/video/2915779611303&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Cine Shampoo</title>
+    <link href="https://example.com/esmicolumna/blog/cine-shampoo/" />
+    <updated>2025-10-30T00:00:00Z</updated>
+    <id>https://example.com/esmicolumna/blog/cine-shampoo/</id>
+    <content type="html">&lt;h1 id=&quot;sopa-de-gemelas&quot;&gt;Sopa de Gemelas&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/823919839878&quot;&gt;https://m.ok.ru/video/823919839878&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;cuidado-hercules-vigila&quot;&gt;Cuidado Hércules Vigila&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/93121088072&quot;&gt;https://m.ok.ru/video/93121088072&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;querida-encogi-a-los-ninos&quot;&gt;Querida encogí a los niños&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/9716085885450&quot;&gt;https://m.ok.ru/video/9716085885450&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;mars-attack&quot;&gt;Mars attack!&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/8139775150639&quot;&gt;https://m.ok.ru/video/8139775150639&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;splash&quot;&gt;Splash&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/4971542022834&quot;&gt;https://m.ok.ru/video/4971542022834&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;mira-quien-habla&quot;&gt;Mirá quién habla&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/7296951257778&quot;&gt;https://m.ok.ru/video/7296951257778&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;quisiera-ser-grande&quot;&gt;Quisiera ser grande&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/291840789051&quot;&gt;https://m.ok.ru/video/291840789051&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;la-maldicion-de-las-brujas&quot;&gt;La maldición de las brujas&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/3004490844733&quot;&gt;https://m.ok.ru/video/3004490844733&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;liberen-a-willy&quot;&gt;Liberen a Willy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/1286448024280&quot;&gt;https://m.ok.ru/video/1286448024280&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;jumanji&quot;&gt;Jumanji&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/7113987852871&quot;&gt;https://m.ok.ru/video/7113987852871&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Vínculos con Adultos Mayores</title>
     <link href="https://example.com/esmicolumna/blog/vinculos-con-adultos-mayores/" />
@@ -160,24 +210,6 @@
 &lt;p&gt;&lt;a href=&quot;https://cuevana.pro/serie/this-is-us&quot;&gt;https://cuevana.pro/serie/this-is-us&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;dark&quot;&gt;Dark&lt;/h1&gt;
 &lt;p&gt;[https://cuevana.pro/serie/dark/episodio-1x1] (https://cuevana.pro/serie/dark/episodio-1x1)&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Madres/hijas</title>
-    <link href="https://example.com/esmicolumna/blog/madres-hijas/" />
-    <updated>2025-08-28T00:00:00Z</updated>
-    <id>https://example.com/esmicolumna/blog/madres-hijas/</id>
-    <content type="html">&lt;h1 id=&quot;tacones-lejanos&quot;&gt;Tacones Lejanos&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://archive.org/details/tacones-lejanos-1991-high-heels-1080p-high-code&quot;&gt;https://archive.org/details/tacones-lejanos-1991-high-heels-1080p-high-code&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Presión de estar en pareja</title>
-    <link href="https://example.com/esmicolumna/blog/presion-de-estar-en-pareja/" />
-    <updated>2025-08-14T00:00:00Z</updated>
-    <id>https://example.com/esmicolumna/blog/presion-de-estar-en-pareja/</id>
-    <content type="html">&lt;h1 id=&quot;the-lobster&quot;&gt;The Lobster&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://ok.ru/group/70000006188245/topic/157244578912469&quot;&gt;https://ok.ru/group/70000006188245/topic/157244578912469&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>

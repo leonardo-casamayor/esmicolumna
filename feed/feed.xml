@@ -5,11 +5,58 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/esmicolumna/feed/feed.xml" rel="self" />
   <link href="https://example.com/esmicolumna/" />
-  <updated>2025-11-06T00:00:00Z</updated>
+  <updated>2025-11-27T00:00:00Z</updated>
   <id>https://example.com/esmicolumna/</id>
   <author>
     <name>Your Name</name>
   </author>
+  <entry>
+    <title>Ciencia Ficción</title>
+    <link href="https://example.com/esmicolumna/blog/ciencia-ficcion/" />
+    <updated>2025-11-27T00:00:00Z</updated>
+    <id>https://example.com/esmicolumna/blog/ciencia-ficcion/</id>
+    <content type="html">&lt;h1 id=&quot;pluribus&quot;&gt;Pluribus&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/10461169519317&quot;&gt;http://ok.ru/video/10461169519317&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;the-oa&quot;&gt;The oa&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://ok.ru/video/1927053052629&quot;&gt;https://ok.ru/video/1927053052629&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;another-earth&quot;&gt;Another Earth&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/1795018525301&quot;&gt;http://ok.ru/video/1795018525301&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;cassandra-doblada&quot;&gt;Cassandra (doblada)&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/8925255502465&quot;&gt;http://ok.ru/video/8925255502465&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;adios-querida-luna&quot;&gt;Adiós querida luna&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://play.cine.ar/INCAA/produccion/545&quot;&gt;https://play.cine.ar/INCAA/produccion/545&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;la-antena&quot;&gt;La Antena&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://play.cine.ar/INCAA/produccion/1444&quot;&gt;https://play.cine.ar/INCAA/produccion/1444&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;the-man-in-the-high-castle-doblada&quot;&gt;The man in the high castle (doblada)&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/1364760332861?__dp=y&quot;&gt;https://m.ok.ru/video/1364760332861?__dp=y&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;el-perro-que-no-calla&quot;&gt;El perro que no calla&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://play.cine.ar/INCAA/produccion/8932/reproducir&quot;&gt;https://play.cine.ar/INCAA/produccion/8932/reproducir&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>La Mala Víctima</title>
+    <link href="https://example.com/esmicolumna/blog/la-mala-victima/" />
+    <updated>2025-11-20T00:00:00Z</updated>
+    <id>https://example.com/esmicolumna/blog/la-mala-victima/</id>
+    <content type="html">&lt;h1 id=&quot;ellas-hablan&quot;&gt;Ellas hablan:&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://ok.ru/video/4994208303829&quot;&gt;https://ok.ru/video/4994208303829&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Locura</title>
+    <link href="https://example.com/esmicolumna/blog/locura/" />
+    <updated>2025-11-13T00:00:00Z</updated>
+    <id>https://example.com/esmicolumna/blog/locura/</id>
+    <content type="html">&lt;h1 id=&quot;criaturas-celestiales&quot;&gt;Criaturas Celestiales&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/2915779611303&quot;&gt;http://ok.ru/video/2915779611303&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;una-mujer-bajo-la-influencia&quot;&gt;Una mujer bajo la influencia&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/3328717490813&quot;&gt;http://ok.ru/video/3328717490813&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;a-la-folie-pas-du-tout&quot;&gt;A la folie, pas du tout&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/7166529637024&quot;&gt;http://ok.ru/video/7166529637024&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;i-m-thinking-of-ending-things&quot;&gt;I&#39;m Thinking of Ending Things&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/2153587280508&quot;&gt;http://ok.ru/video/2153587280508&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Cine Queer</title>
     <link href="https://example.com/esmicolumna/blog/cine-queer/" />
@@ -159,57 +206,6 @@
 &lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/8097462684207&quot;&gt;https://m.ok.ru/video/8097462684207&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;retrato-de-una-mujer-en-llamas&quot;&gt;Retrato de una mujer en llamas&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/8634774784638&quot;&gt;https://m.ok.ru/video/8634774784638&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Informe Tijerola</title>
-    <link href="https://example.com/esmicolumna/blog/Intitulada1/" />
-    <updated>2025-09-18T00:00:00Z</updated>
-    <id>https://example.com/esmicolumna/blog/Intitulada1/</id>
-    <content type="html">&lt;h1 id=&quot;la-mujer-de-la-fila-trailer&quot;&gt;La mujer de la fila (trailer)&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=MiSvv08RT58&quot;&gt;https://www.youtube.com/watch?v=MiSvv08RT58&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;salir-de-la-carcel-andrea-casamento-tedxriodelaplata&quot;&gt;Salir de la cárcel - Andrea Casamento (TEDxRiodelaPlata)&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tnJ7YS5x3EM&quot;&gt;https://www.youtube.com/watch?v=tnJ7YS5x3EM&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;celda-211&quot;&gt;Celda 211&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/8067676375786&quot;&gt;http://ok.ru/video/8067676375786&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;en-el-nombre-del-hijo&quot;&gt;En el nombre del hijo&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/7440858090012&quot;&gt;https://m.ok.ru/video/7440858090012&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Docentes</title>
-    <link href="https://example.com/esmicolumna/blog/docentes/" />
-    <updated>2025-09-11T00:00:00Z</updated>
-    <id>https://example.com/esmicolumna/blog/docentes/</id>
-    <content type="html">&lt;h1 id=&quot;el-maestro&quot;&gt;El maestro&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=t9wIA7Y-uDY&quot;&gt;https://www.youtube.com/watch?v=t9wIA7Y-uDY&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;paulina-la-patota&quot;&gt;Paulina (La patota)&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://ok.ru/video/2636883626713&quot;&gt;https://ok.ru/video/2636883626713&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;la-patota-1960&quot;&gt;La Patota (1960)&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=37dt7_zwBgs&quot;&gt;https://www.youtube.com/watch?v=37dt7_zwBgs&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;luce&quot;&gt;Luce&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/1576492665417&quot;&gt;https://m.ok.ru/video/1576492665417&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;otra-ronda-doblada&quot;&gt;Otra ronda (doblada)&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/dk?st.cmd=movieLayer&amp;amp;st.retLoc=default&amp;amp;st.discType=MOVIE&amp;amp;st.mvId=8060100348494&amp;amp;st.plog=-1%3B-1%3B0%3B&amp;amp;st.discId=8060100348494&amp;amp;st.rtu=%2Fdk%3Fst.cmd%3DuserAllSearch%26st.search%3Dotra%2Bronda%26st.frwd%3Don%26st.page%3D1%26_prevCmd%3DuserAllSearch%26tkn%3D98&amp;amp;_prevCmd=userAllSearch&amp;amp;tkn=2226#&quot;&gt;https://m.ok.ru/dk?st.cmd=movieLayer&amp;amp;st.retLoc=default&amp;amp;st.discType=MOVIE&amp;amp;st.mvId=8060100348494&amp;amp;st.plog=-1%3B-1%3B0%3B&amp;amp;st.discId=8060100348494&amp;amp;st.rtu=%2Fdk%3Fst.cmd%3DuserAllSearch%26st.search%3Dotra%2Bronda%26st.frwd%3Don%26st.page%3D1%26_prevCmd%3DuserAllSearch%26tkn%3D98&amp;amp;_prevCmd=userAllSearch&amp;amp;tkn=2226#&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;la-sala-de-profesores&quot;&gt;La sala de profesores&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://ok.ru/group/70000006188245/topic/157213022738645&quot;&gt;https://ok.ru/group/70000006188245/topic/157213022738645&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Series</title>
-    <link href="https://example.com/esmicolumna/blog/series/" />
-    <updated>2025-09-09T00:00:00Z</updated>
-    <id>https://example.com/esmicolumna/blog/series/</id>
-    <content type="html">&lt;h1 id=&quot;long-stroy-short&quot;&gt;Long stroy short&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://cuevana3.rs/serie/long-story-short/temporada/1/capitulo/1&quot;&gt;https://cuevana3.rs/serie/long-story-short/temporada/1/capitulo/1&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;bojack-horseman&quot;&gt;Bojack Horseman&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://cuevana.pro/serie/bojack-horseman/temporada-1&quot;&gt;https://cuevana.pro/serie/bojack-horseman/temporada-1&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;undone&quot;&gt;Undone&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://cuevana.pro/serie/undone/episodio-1x1&quot;&gt;https://cuevana.pro/serie/undone/episodio-1x1&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;this-is-us&quot;&gt;This is us&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://cuevana.pro/serie/this-is-us&quot;&gt;https://cuevana.pro/serie/this-is-us&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;dark&quot;&gt;Dark&lt;/h1&gt;
-&lt;p&gt;[https://cuevana.pro/serie/dark/episodio-1x1] (https://cuevana.pro/serie/dark/episodio-1x1)&lt;/p&gt;
 </content>
   </entry>
 </feed>

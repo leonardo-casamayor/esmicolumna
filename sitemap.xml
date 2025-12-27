@@ -187,27 +187,37 @@
 	</url>
 	
 	<url>
+		<loc>https://example.com/esmicolumna/blog/famosos-recomiendan/</loc>
+		<lastmod>04 diciembre 2025</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/esmicolumna/blog/body-horror/</loc>
+		<lastmod>11 diciembre 2025</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://example.com/esmicolumna/about/</loc>
-		<lastmod>29 noviembre 2025</lastmod>
+		<lastmod>27 diciembre 2025</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/esmicolumna/blog/</loc>
-		<lastmod>29 noviembre 2025</lastmod>
+		<lastmod>27 diciembre 2025</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/esmicolumna/</loc>
-		<lastmod>29 noviembre 2025</lastmod>
+		<lastmod>27 diciembre 2025</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/esmicolumna/tags/</loc>
-		<lastmod>29 noviembre 2025</lastmod>
+		<lastmod>27 diciembre 2025</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/esmicolumna/feed/feed.xml</loc>
-		<lastmod>29 noviembre 2025</lastmod>
+		<lastmod>27 diciembre 2025</lastmod>
 	</url>
 </urlset>

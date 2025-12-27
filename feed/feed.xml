@@ -5,11 +5,55 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/esmicolumna/feed/feed.xml" rel="self" />
   <link href="https://example.com/esmicolumna/" />
-  <updated>2025-11-27T00:00:00Z</updated>
+  <updated>2025-12-11T00:00:00Z</updated>
   <id>https://example.com/esmicolumna/</id>
   <author>
     <name>Your Name</name>
   </author>
+  <entry>
+    <title>Body Horror</title>
+    <link href="https://example.com/esmicolumna/blog/body-horror/" />
+    <updated>2025-12-11T00:00:00Z</updated>
+    <id>https://example.com/esmicolumna/blog/body-horror/</id>
+    <content type="html">&lt;h1 id=&quot;la-mosca-1958&quot;&gt;La Mosca (1958)&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/2114414054089&quot;&gt;http://ok.ru/video/2114414054089&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;la-mosca-1986&quot;&gt;La Mosca (1986)&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/2645977205394&quot;&gt;http://ok.ru/video/2645977205394&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;la-cosa&quot;&gt;La Cosa&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://ok.ru/group/70000006188245/topic/157390565333205&quot;&gt;https://ok.ru/group/70000006188245/topic/157390565333205&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;el-ciempies-humano&quot;&gt;El ciempiés humano&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.tokyvideo.com/video/ciempies-humano&quot;&gt;https://www.tokyvideo.com/video/ciempies-humano&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;la-sustancia&quot;&gt;La sustancia&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/9152718047758&quot;&gt;http://ok.ru/video/9152718047758&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;la-muerte-le-sienta-bien&quot;&gt;La muerte le sienta bien&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/7325883238998&quot;&gt;https://m.ok.ru/video/7325883238998&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Famosos Recomiendan</title>
+    <link href="https://example.com/esmicolumna/blog/famosos-recomiendan/" />
+    <updated>2025-12-04T00:00:00Z</updated>
+    <id>https://example.com/esmicolumna/blog/famosos-recomiendan/</id>
+    <content type="html">&lt;h1 id=&quot;hijos-del-cielo&quot;&gt;Hijos del cielo&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/350677633670&quot;&gt;http://ok.ru/video/350677633670&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;faces&quot;&gt;Faces&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/2460355332855&quot;&gt;http://ok.ru/video/2460355332855&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;shadows&quot;&gt;Shadows&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://ok.ru/video/9807329954517&quot;&gt;https://ok.ru/video/9807329954517&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;moulin-rouge&quot;&gt;Moulin Rouge&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/375931800123&quot;&gt;https://m.ok.ru/video/375931800123&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;nosferatu&quot;&gt;Nosferatu&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://streamtape.com/e/arvDkOxwl6F2OZ/&quot;&gt;https://streamtape.com/e/arvDkOxwl6F2OZ/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;la-historia-oficial&quot;&gt;La historia oficial&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/6909177629268&quot;&gt;http://ok.ru/video/6909177629268&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;cronica-de-un-nino-solo&quot;&gt;Crónica de un niño solo&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=0JqrrLAfAOA&quot;&gt;https://www.youtube.com/watch?v=0JqrrLAfAOA&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;tiburon&quot;&gt;Tiburón&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/2779745094290&quot;&gt;http://ok.ru/video/2779745094290&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;et&quot;&gt;ET&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/3160996711058&quot;&gt;https://m.ok.ru/video/3160996711058&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Ciencia Ficción</title>
     <link href="https://example.com/esmicolumna/blog/ciencia-ficcion/" />
@@ -164,48 +208,6 @@
 &lt;p&gt;&lt;a href=&quot;http://ok.ru/video/3464701282871&quot;&gt;http://ok.ru/video/3464701282871&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;1917&quot;&gt;1917&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;http://ok.ru/video/4940820646615&quot;&gt;http://ok.ru/video/4940820646615&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>María Luisa Bemberg</title>
-    <link href="https://example.com/esmicolumna/blog/maria-luisa-bemberg/" />
-    <updated>2025-10-02T00:00:00Z</updated>
-    <id>https://example.com/esmicolumna/blog/maria-luisa-bemberg/</id>
-    <content type="html">&lt;h1 id=&quot;momentos&quot;&gt;Momentos&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://ok.ru/video/3883793386008&quot;&gt;https://ok.ru/video/3883793386008&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;camila&quot;&gt;Camila&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.dailymotion.com/video/x90mn0c&quot;&gt;https://www.dailymotion.com/video/x90mn0c&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;de-eso-no-se-habla&quot;&gt;De eso no se habla&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://ok.ru/video/3251604359704&quot;&gt;https://ok.ru/video/3251604359704&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;miss-mary&quot;&gt;Miss Mary&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://ok.ru/video/5911718529779&quot;&gt;https://ok.ru/video/5911718529779&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;senora-de-nadie&quot;&gt;Señora de nadie&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://ok.ru/video/3883847846424&quot;&gt;https://ok.ru/video/3883847846424&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;yo-la-peor-de-todas&quot;&gt;Yo, la peor de todas&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;http://ok.ru/video/3883809376792&quot;&gt;http://ok.ru/video/3883809376792&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Aborto</title>
-    <link href="https://example.com/esmicolumna/blog/aborto/" />
-    <updated>2025-09-25T00:00:00Z</updated>
-    <id>https://example.com/esmicolumna/blog/aborto/</id>
-    <content type="html">&lt;h1 id=&quot;cien-veces-no-debo&quot;&gt;Cien veces no debo&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=idsBI_bUsQs&quot;&gt;https://www.youtube.com/watch?v=idsBI_bUsQs&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;4-meses-3-semanas-2-dias&quot;&gt;4 Meses, 3 Semanas, 2 Días&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/2064088173117?__dp=y&quot;&gt;https://m.ok.ru/video/2064088173117?__dp=y&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;la-tribu&quot;&gt;La Tribu&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/895188208284&quot;&gt;https://m.ok.ru/video/895188208284&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;nunca-casi-nunca-a-veces-siempre&quot;&gt;Nunca, casi nunca, a veces, siempre&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/2199128377917&quot;&gt;https://m.ok.ru/video/2199128377917&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;dirty-dancing-sin-subtitulos&quot;&gt;Dirty Dancing sin subtítulos&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.tokyvideo.com/fr/video/dirty-dancing-vf&quot;&gt;https://www.tokyvideo.com/fr/video/dirty-dancing-vf&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;unpregnant-sin-subtitulos&quot;&gt;Unpregnant sin subtítulos:&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/1641714092548&quot;&gt;https://m.ok.ru/video/1641714092548&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;grandma-doblada-al-espanol&quot;&gt;Grandma doblada al español:&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/8097462684207&quot;&gt;https://m.ok.ru/video/8097462684207&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;retrato-de-una-mujer-en-llamas&quot;&gt;Retrato de una mujer en llamas&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://m.ok.ru/video/8634774784638&quot;&gt;https://m.ok.ru/video/8634774784638&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
